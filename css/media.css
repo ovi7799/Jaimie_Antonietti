@@ -1,0 +1,121 @@
+@media only screen and (max-width: 1200px) {
+    .about-section-pic {
+        width: 100%;
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .nav-menu{
+        margin-left: 0;
+    }
+    .banner-section-image{
+        width: 80%;
+    }
+    .about-section-pic{
+        width: 100%;
+        margin-left: 0;
+        margin-top: 25%;
+    }
+    .banner-section3-pic{
+        width: 100%;
+        margin-left: 0;
+    }
+    .about-section2-pic{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 774px) {
+    .nav-menu{
+        margin-left: 0;
+    }
+    .banner-section-image {
+        width: 80%;
+        margin-left: 30px;
+    }
+    .about-section-pic {
+        width: 100%;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+    .about-section-hadding{
+        margin-top: 15%;
+    }
+    .end-section-logo {
+        margin-left: 100px;
+        width: 50%;
+        margin-top: 20px;
+    }
+    .facebook-icon {
+        font-size: 28px;
+        margin-left: 107px;
+    }
+    .instagram-icon{
+        font-size: 28px;
+    }
+    .linkedin-icon{
+        font-size: 28px;
+    }
+    .banner-section2-para{
+        margin-left: 0;
+    }
+    .banner-section3-pic{
+        width: 100%;
+        margin-left: 0;
+    }
+    .about-section2-pic{
+        width: 100%;
+    }
+    .images-section-pic{
+        width: 100%;
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width: 421px) {
+    .nav-menu{
+        margin-left: 0;
+    }
+    .banner-section-image {
+        width: 80%;
+        margin-left: 30px;
+    }
+    .about-section-pic {
+        width: 100%;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+    .about-section-hadding{
+        margin-top: 15%;
+    }
+    .end-section-logo {
+        margin-left: 73px;
+        width: 51%;
+        margin-top: 20px;
+    }
+    .facebook-icon {
+        font-size: 28px;
+        margin-left: 72px;
+    }
+    .instagram-icon{
+        font-size: 28px;
+    }
+    .linkedin-icon{
+        font-size: 28px;
+    }
+    .banner-section2-para{
+        margin-left: 0;
+    }
+    .banner-section3-pic{
+        width: 100%;
+        margin-left: 0;
+    }
+    .about-section2-pic{
+        width: 100%;
+    }
+    .images-section-pic{
+        width: 100%;
+        margin-left: 0;
+    }
+}
